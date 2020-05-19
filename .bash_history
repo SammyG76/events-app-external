@@ -31,3 +31,8 @@ git remote add origin https://github.com/samgustinDeloitte/events-app-external.g
 git push -u origin master
 git init
 git add.
+git add .
+git commit =m "Initial commit"
+git commit -m "Initial commit"
+git remote add origin https://github.com/samgustinDeloitte/events-app-internal.git
+git push -u origin master
