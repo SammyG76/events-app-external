@@ -25,3 +25,9 @@ git config --global user.name samgustinDeloitte
 git config --global user.email "sgusin@deloitte"
 git config --global user.name "samgustinDeloitte"
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/samgustinDeloitte/events-app-external.git
+git push -u origin master
+git init
+git add.
